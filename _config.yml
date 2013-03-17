@@ -1,5 +1,8 @@
 # standard jekyll configuration
 
+pygments: false
+auto: true 
+server: true
 permalink: date
 pygments: true
 exclude: ['Rakefile', 'README.md']
